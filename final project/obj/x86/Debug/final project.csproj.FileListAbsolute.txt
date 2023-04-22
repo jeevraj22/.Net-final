@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2010\Projects\final project\final project\bin\Debug\final project.exe
+c:\users\student\documents\visual studio 2010\Projects\final project\final project\bin\Debug\final project.pdb
+c:\users\student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final_project.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final project.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final project.exe
+c:\users\student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final project.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final project.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final_project.sign_in_page.resources
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\bin\Debug\final project.exe.manifest
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\bin\Debug\final project.application
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final project.exe.manifest
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final project.application
+C:\Users\Student\documents\visual studio 2010\Projects\final project\final project\obj\x86\Debug\final_project.home.resources
